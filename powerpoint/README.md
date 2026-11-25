@@ -25,7 +25,7 @@
 7. **Contenido de dos columnas · Two columns**.
 8. **Cierre · Closing**: frase, contacto y marcador de **Logo**.
 
-Los marcadores tienen nombres como «Título / Title», «Rol / Role», «Imagen circular / Round picture», «Eje 1 nombre / Axis 1 name», para que Copilot los identifique. No hay logos de Gensler ni fotos de personas: el cierre trae un marcador «Logo» (inserta el logo oficial) y Persona una imagen circular genérica que debes reemplazar.
+Los marcadores tienen nombres como «Título / Title», «Rol / Role», «Imagen circular / Round picture», «Eje 1 nombre / Axis 1 name», para que Copilot los identifique. No hay logos corporativos ni fotos de personas: el cierre trae un marcador «Logo» (inserta el logo oficial) y Persona una imagen circular genérica que debes reemplazar.
 
 ## Estilo / Style
 
