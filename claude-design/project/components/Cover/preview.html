@@ -1,0 +1,32 @@
+<!-- @dsCard height=320 -->
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><style>
+html,body{margin:0;background:var(--bg)}
+.c{position:relative;width:960px;height:320px;background:var(--bg);overflow:hidden}
+.c svg{position:absolute;left:0;top:0}
+.sky{fill:var(--halo-capture-center)}.lilac{fill:var(--halo-capture-edge)}.peach{fill:var(--halo-delivery-center)}.coral{fill:var(--halo-delivery-edge)}.inkb{fill:var(--ink)}
+.floor{stroke:var(--staff);stroke-width:1}.cut{stroke:var(--bg);stroke-width:1}
+.t{position:absolute;left:40px;bottom:40px;width:440px}
+.n{font-family:var(--font-display);font-style:italic;font-weight:400;font-size:104px;line-height:.95;color:var(--ink)}
+.s{font-family:var(--font-mono);font-weight:400;font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);margin-top:12px}
+</style></head><body>
+<div class="c">
+<!-- derivation
+blocks: halo-capture-center (sky) 136x200, halo-capture-edge (lilac) 112x184, halo-delivery-center (peach) 192x112, halo-delivery-edge (coral) 304x80, ink 192x136; all sides multiples of 8 (space-1 steps)
+arrangement: staggered stack right of x=480, bleeding off top, right and bottom edges; ink slab top-right
+pattern: five staff hairlines (staff token) crossing the blocks, ground-cut where over a block; editorial/literal motif: the staff is the system's own object
+steps and radii: space-1 8px steps, radius-none (square blocks), stroke-detail 1px -->
+<svg width="960" height="320" viewBox="0 0 960 320">
+  <g><path class="floor" d="M480 104H960"/><path class="floor" d="M480 128H960"/><path class="floor" d="M480 152H960"/><path class="floor" d="M480 176H960"/><path class="floor" d="M480 200H960"/></g>
+  <g id="b">
+    <rect class="sky" x="520" y="0" width="136" height="200"/>
+    <rect class="lilac" x="656" y="56" width="112" height="184"/>
+    <rect class="peach" x="768" y="136" width="192" height="112"/>
+    <rect class="coral" x="656" y="240" width="304" height="80"/>
+    <rect class="inkb" x="768" y="0" width="192" height="136"/>
+  </g>
+  <clipPath id="k"><use href="#b"/></clipPath>
+  <g clip-path="url(#k)"><path class="cut" d="M480 104H960"/><path class="cut" d="M480 128H960"/><path class="cut" d="M480 152H960"/><path class="cut" d="M480 176H960"/><path class="cut" d="M480 200H960"/></g>
+</svg>
+<div class="t"><div class="n">DT Jazz</div><div class="s">Design Technology · Jazz</div></div>
+</div></body></html>

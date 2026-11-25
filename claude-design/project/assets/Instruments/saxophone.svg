@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 -8 376 636" width="376" height="636" role="img" aria-label="saxophone (innovation)">
+  <title>saxophone - innovation axis</title>
+  <g fill="none" stroke="#F2EFE8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M137 150C137 104 130 74 106 56C90 46 76 48 60 46"/>
+    <path d="M155 150C155 108 148 90 118 76C98 68 82 70 62 66"/>
+    <path d="M60 46L30 44L26 56L62 66"/>
+    <path d="M38 45L40 55" stroke-width="0.66"/>
+    <path d="M126 150H166"/>
+    <path d="M128 150L116 440C112 520 150 586 222 586C290 586 322 540 324 480C326 450 332 428 338 408"/>
+    <path d="M164 150L176 440C180 486 196 524 226 524C252 524 268 500 270 470C272 448 276 430 278 410"/>
+    <path d="M272 396a36 12 0 1 0 72 0a36 12 0 1 0 -72 0" transform="rotate(-10 308 396)"/>
+    <path d="M278 396a30 8 0 1 0 60 0a30 8 0 1 0 -60 0" transform="rotate(-10 308 396)" stroke-width="0.66"/>
+    <path d="M139 190a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/>
+    <path d="M139 226a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/>
+    <path d="M139 262a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/>
+    <path d="M139 298a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/>
+    <path d="M139 334a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/>
+    <path d="M140 370a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/>
+    <path d="M141 406a6 6 0 1 0 12 0a6 6 0 1 0 -12 0"/>
+    <path d="M168 200H184M170 260H186M172 320H188" stroke-width="1"/>
+    <path d="M186 200a4 4 0 1 0 8 0a4 4 0 1 0 -8 0"/>
+    <path d="M188 260a4 4 0 1 0 8 0a4 4 0 1 0 -8 0"/>
+    <path d="M190 320a4 4 0 1 0 8 0a4 4 0 1 0 -8 0"/>
+    <path d="M226 524V536M206 520L200 532" stroke-width="1"/>
+  </g>
+</svg>

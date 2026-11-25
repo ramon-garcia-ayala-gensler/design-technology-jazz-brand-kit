@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 -8 666 456" width="666" height="456" role="img" aria-label="drums (delivery)">
+  <title>drums - delivery axis</title>
+  <g fill="none" stroke="#F2EFE8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M210 300a100 100 0 1 0 200 0a100 100 0 1 0 -200 0"/>
+    <path d="M224 300a86 86 0 1 0 172 0a86 86 0 1 0 -172 0" stroke-width="0.66"/>
+    <path d="M216 300a94 94 0 1 0 188 0a94 94 0 1 0 -188 0" stroke-width="5" stroke-dasharray="1.5 36" stroke-linecap="butt" stroke-opacity="0.6"/>
+    <path d="M298 300a12 12 0 1 0 24 0a12 12 0 1 0 -24 0"/>
+    <path d="M232 396L216 424M388 396L404 424"/>
+    <path d="M223 162V184C223 198 307 198 307 184V162"/>
+    <path d="M223 162a42 12 0 1 0 84 0a42 12 0 1 0 -84 0"/>
+    <path d="M313 162V184C313 198 397 198 397 184V162"/>
+    <path d="M313 162a42 12 0 1 0 84 0a42 12 0 1 0 -84 0"/>
+    <path d="M310 200V186"/>
+    <path d="M106 256V296C106 312 214 312 214 296V256"/>
+    <path d="M106 256a54 14 0 1 0 108 0a54 14 0 1 0 -108 0"/>
+    <path d="M118 258V300M148 262V308M172 262V308M202 258V300" stroke-width="0.66"/>
+    <path d="M160 312V404M160 366L122 424M160 366L198 424"/>
+    <path d="M415 260V306C415 324 535 324 535 306V260"/>
+    <path d="M415 260a60 16 0 1 0 120 0a60 16 0 1 0 -120 0"/>
+    <path d="M425 316V412M525 316V412"/>
+    <path d="M12 196a40 6 0 1 0 80 0a40 6 0 1 0 -80 0"/>
+    <path d="M12 206a40 6 0 1 0 80 0a40 6 0 1 0 -80 0"/>
+    <path d="M52 212V410M52 410L22 430M52 410L82 430M52 380L100 410"/>
+    <path d="M508 96a62 9 0 1 0 124 0a62 9 0 1 0 -124 0" transform="rotate(-9 570 96)"/>
+    <path d="M561 96a9 2 0 1 0 18 0a9 2 0 1 0 -18 0" transform="rotate(-9 570 96)"/>
+    <path d="M580 106V410M580 410L554 430M580 410L606 430"/>
+    <path d="M96 150L176 224M140 130L198 224" stroke-width="1"/>
+  </g>
+</svg>

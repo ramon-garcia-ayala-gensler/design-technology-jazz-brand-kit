@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 180" width="140" height="180" role="img" aria-label="Chord: five stacked filled heads with one stem">
+  <title>Chord: five stacked filled heads with one stem</title>
+  <g fill="none" stroke="#F2EFE8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <g><path d="M0 130H140" stroke-width="1" stroke-opacity=".35"/><path d="M0 106H140" stroke-width="1" stroke-opacity=".35"/><path d="M0 82H140" stroke-width="1" stroke-opacity=".35"/><path d="M0 58H140" stroke-width="1" stroke-opacity=".35"/><path d="M0 34H140" stroke-width="1" stroke-opacity=".35"/></g><ellipse cx="70" cy="130" rx="14" ry="10" transform="rotate(-20 70 130)" fill="#F2EFE8" stroke="none"/><ellipse cx="70" cy="106" rx="14" ry="10" transform="rotate(-20 70 106)" fill="#F2EFE8" stroke="none"/><ellipse cx="70" cy="82" rx="14" ry="10" transform="rotate(-20 70 82)" fill="#F2EFE8" stroke="none"/><ellipse cx="70" cy="58" rx="14" ry="10" transform="rotate(-20 70 58)" fill="#F2EFE8" stroke="none"/><ellipse cx="70" cy="34" rx="14" ry="10" transform="rotate(-20 70 34)" fill="#F2EFE8" stroke="none"/><path d="M83 31V-42"/>
+  </g>
+</svg>

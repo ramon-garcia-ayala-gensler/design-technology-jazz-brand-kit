@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000" role="img" aria-label="Halo example (Capture: sky to lilac)">
+  <title>Halo - one per axis, max opacity .30 at center, .13 at mid radius, 0 at the edge</title>
+  <defs>
+    <radialGradient id="glow-capture"><stop offset="0" stop-color="#7FB8E6" stop-opacity=".30"/><stop offset=".55" stop-color="#A99BE0" stop-opacity=".13"/><stop offset="1" stop-color="#A99BE0" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1000" height="1000" fill="#0B0B0D"/>
+  <circle cx="500" cy="500" r="460" fill="url(#glow-capture)"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000" role="img" aria-label="Halo delivery">
+  <title>Halo delivery</title>
+  <defs><radialGradient id="g"><stop offset="0" stop-color="#F2B48C" stop-opacity=".30"/><stop offset=".55" stop-color="#EE7F6E" stop-opacity=".13"/><stop offset="1" stop-color="#EE7F6E" stop-opacity="0"/></radialGradient></defs>
+  <circle cx="500" cy="500" r="460" fill="url(#g)"/>
+</svg>
