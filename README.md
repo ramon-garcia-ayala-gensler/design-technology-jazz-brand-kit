@@ -30,7 +30,7 @@ Un estilo visual de «club de jazz oscuro» dibujado con una sola línea. Un equ
 ### Cómo usarlo
 
 **(a) Claude / Claude Design**
-- Design System compartido: pide acceso al dueño o importa la carpeta `claude-design/project`.
+- Design System compartido en Claude: [Design Technology Jazz](https://claude.ai/artifact/RPZ9MxhyBuZcV9VBEkgCjM) (pide acceso al dueño; con acceso, elígelo al crear una presentación en Claude). También puedes importar la carpeta `claude-design/project` a tu propio Design System.
 - Skill: en Claude sube `skills/dt-jazz.zip` en Settings → Capabilities → Skills. En Claude Code copia `skills/dt-jazz/` a `~/.claude/skills/`. Luego pide «hazme una presentación en el estilo DT Jazz».
 
 **(b) Microsoft 365 Copilot (lo principal para el equipo)**
@@ -74,7 +74,7 @@ See the folder table above. `tokens/` (JSON + CSS), `assets/` (SVG), `fonts/` (W
 ### How to use it
 
 **(a) Claude / Claude Design**
-- Shared Design System: ask the owner for access, or import the `claude-design/project` folder.
+- Shared Design System in Claude: [Design Technology Jazz](https://claude.ai/artifact/RPZ9MxhyBuZcV9VBEkgCjM) (ask the owner for access; then pick it when you create slides in Claude). Or import the `claude-design/project` folder into your own Design System.
 - Skill: in Claude upload `skills/dt-jazz.zip` under Settings → Capabilities → Skills. In Claude Code copy `skills/dt-jazz/` to `~/.claude/skills/`. Then ask "make me a deck in the DT Jazz style".
 
 **(b) Microsoft 365 Copilot (the main path for the team)**
